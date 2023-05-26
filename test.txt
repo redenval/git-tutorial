@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asdfasd fasd fastext file i edited this text
+=======
+text file
+>>>>>>> 8d61d3c (Initial commit)
